@@ -66,5 +66,8 @@ Focus marketing on popular stations
 ### Project Files
  #### Data source: https://divvy-tripdata.s3.amazonaws.com/index.html
 
+ #### Kaggle Notebook  
+ [View my Kaggle analysis](https://www.kaggle.com/code/amr1811/cyclistic-bike-share)
+
  
  
